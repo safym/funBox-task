@@ -106,8 +106,8 @@
 Последние пет-проекты:
  
 1. [Магазин ностальгических телефонов (React)](https://github.com/safym/2000shop)
-2. [Погода (Js)](https://github.com/safym/weather-app-vue)
-3. [2048 (js)](https://github.com/safym/2048-JS)
+2. [Погода (JS)](https://github.com/safym/weather-app-vue)
+3. [2048 (JS)](https://github.com/safym/2048-JS)
 4. [Карточная игра по мотивам блекджек(JS)](https://github.com/safym/calico-jack)
 
 
