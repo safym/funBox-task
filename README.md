@@ -1,4 +1,10 @@
-# funBox-task
+# 21.01.2022 - Кривопалова Майя Сергеевна (для funbox)
+
+Запуск проекта:
+
+> npm install
+
+> npm start
 
 ## Task-1
 
