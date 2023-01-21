@@ -1,7 +1,7 @@
 {
   "name": "funbox",
   "version": "0.1.0",
-  "homepage": "https://safym.github.io/funbox-gh-pages",
+  "homepage": "https://safym.github.io/funBox-task",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
