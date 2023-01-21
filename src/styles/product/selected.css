@@ -1,0 +1,7 @@
+.selected .card-border-svg > path{
+  fill: var(--color-red);
+}
+
+.selected .product-weight{
+  background-color: var(--color-red);
+}

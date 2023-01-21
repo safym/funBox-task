@@ -1,0 +1,19 @@
+.product-card:hover * {
+  transition: 0.2s all;
+}
+
+.product-card:hover .card-border-svg > path{
+  fill: var(--color-blue-light);
+}
+
+.product-card:hover .product-weight{
+  background-color: var(--color-blue-light);
+}
+
+.selected:hover .card-border-svg > path{
+  fill: var(--color-red-light);
+}
+
+.selected:hover .product-weight{
+  background-color: var(--color-red-light);
+}

@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Exo;
+  src: url(../fonts/Exo2.0-Thin.otf);
+}
+
+@font-face {
+  font-family: TrebuchetMS;
+  src: url(../fonts/trebuchetms.ttf);
+}
+
+:root {
+  --color-white: white;
+  --color-black: black;
+  --color-grey: #666666;
+  --color-grey-light: #B3B3B3;
+  --color-yellow: #FFFF66;
+  --color-blue: #1698D9;
+  --color-blue-light: #2EA8E6;
+  --color-red: #D91667;
+  --color-red-light: #E52E7A;
+
+  --font-header: Exo;
+  --font-product: TrebuchetMS;
+}

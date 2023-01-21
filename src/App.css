@@ -1,0 +1,13 @@
+@import url("./styles/root.css");
+@import url("./styles/general.css");
+@import url("./styles/header.css");
+
+@import url("./styles/product/product.css");
+@import url("./styles/product/productInfo.css");
+@import url("./styles/product/weight.css");
+@import url("./styles/product/back.css");
+
+@import url("./styles/product/hover.css");
+
+@import url("./styles/product/selected.css");
+@import url("./styles/product/disabled.css");

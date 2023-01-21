@@ -1,0 +1,23 @@
+.out-of-stock {
+  pointer-events: none;
+}
+
+.out-of-stock .product-card-info-wrapper * {
+  color: var(--color-grey-light);
+}
+
+.out-of-stock .product-weight {
+  background-color: var(--color-grey-light);
+}
+
+.out-of-stock .card-border-svg > path{
+  fill:  var(--color-grey-light);
+}
+
+.out-of-stock .img-cat {
+  opacity: 50%;
+}
+
+.yellow {
+  color: var(--color-yellow);
+}
