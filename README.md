@@ -1,5 +1,7 @@
 # 21.01.2022 - Кривопалова Майя Сергеевна (для funbox)
 
+Deploy: https://safym.github.io/funBox-task/
+
 Запуск проекта:
 
 > npm install
