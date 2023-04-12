@@ -1,4 +1,4 @@
-<h1 align="center">💬 Тестовое задание к вакансии Junor Frontend developer</h1>
+<h1 align="center">📒 Тестовое задание к вакансии Junor Frontend developer</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
